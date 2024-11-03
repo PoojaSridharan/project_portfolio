@@ -1,0 +1,12 @@
+---
+title: "Projects"
+listing: 
+  contents: 
+  - project1.qmd
+  - project2.qmd
+  type: grid
+  categories: true
+  fields: [image,title]
+---
+
+These are all the list of projects I have created so far.

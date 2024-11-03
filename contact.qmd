@@ -1,0 +1,17 @@
+---
+title: "CONTACT ME"
+about: 
+  template: jolla
+  links:
+    - icon: envelop-at-fill
+      text: email
+      href: psridha@gmu.edu
+    - icon: github
+      text: Github
+      href: https://github.com/PoojaSridharan
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/pooja-sridharan/
+---
+
+Contact me through link provided

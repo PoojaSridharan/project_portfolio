@@ -1,0 +1,14 @@
+---
+title: "Data Job Trends Analysis (2020- 2024)"
+format: html
+editor: visual
+image: img2.png
+---
+
+### Project Brief
+
+The **Data Job Trends Analysis Dashboard (2020-2024)** is an interactive Power BI dashboard that analyzes the global demand for data-related roles across different countries from 2020 to 2024. It provides insights into job market fluctuations, highlights country-specific trends, and helps professionals understand the evolving demand for data skills. This tool is essential for data analysts, recruiters, and career strategists aiming to make informed decisions based on recent market data.
+
+### Project URL
+
+Access the project here: [Project Url](https://github.com/PoojaSridharan/Projects/tree/main/Power%20BI%20Project)

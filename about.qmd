@@ -1,0 +1,12 @@
+---
+title: "ABOUT"
+image: pic.png
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 15em
+---
+
+Myself Pooja Sridharan. I am a data-driven professional with over 4 years of diverse experience, including 2 years as a Data Analyst. Currently, I am pursuing a master’s degree in Data Analytics Engineering with a minor in Business Analytics at George Mason University, where I am focusing on enhancing my expertise in data science, machine learning, and marketing analytics.
+
+As a Data Analyst, I have a proven track record of leveraging data to create actionable insights, automate processes, and streamline decision-making. My technical proficiency includes Python, SQL, and advanced visualization tools such as Power BI and Tableau. I have also developed expertise in web scraping, automation, and API integration, which has allowed me to build efficient data pipelines, improve data accuracy, and increase operational efficiency.
