@@ -10,4 +10,3 @@ listing:
   fields: [image,title]
 ---
 
-These are all the list of projects I have created so far.
