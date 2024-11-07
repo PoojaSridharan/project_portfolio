@@ -2,8 +2,9 @@
   {
     "listing": "/Projects.html",
     "items": [
+      "/project1.html",
       "/project2.html",
-      "/project1.html"
+      "/project3.html"
     ]
   }
 ]
