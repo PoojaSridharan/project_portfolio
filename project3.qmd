@@ -1,0 +1,45 @@
+---
+title: "Personalized Movie & TV Show Recommender"
+format: html
+editor: visual
+image: img3.png
+---
+
+### \[[Project Link](https://github.com/PoojaSridharan/Projects/blob/main/Python%20and%20ML/Analysis.ipynb)\]
+
+In today’s crowded streaming industry, users face endless content options but often struggle to find shows and movies that truly match their preferences. This is where recommendation engines play a critical role in creating a more engaging, personalized viewing experience. My **Personalized Movie & TV Show Recommender** project tackles this challenge head-on, using advanced clustering techniques and similarity scoring to curate tailored suggestions for each user.
+
+#### The Business Case: Why Personalization Matters
+
+Imagine you’re on a streaming platform and have just finished a movie. What’s next? A good recommendation system is like a smart friend who knows your taste—offering suggestions that keep you watching, without the overwhelming feeling of endless scrolling. This personalization isn’t just a nice-to-have; it’s a strategic advantage for any streaming service. Personalized recommendations lead to higher viewer engagement, increased watch time, and ultimately, stronger brand loyalty. By using data to understand user preferences, streaming platforms can reduce churn rates and create a more satisfying viewer experience.
+
+#### How I Built a Solution: Turning Data into Tailored Recommendations
+
+Creating a recommendation system that “gets” what users want requires a combination of data science techniques. Here’s the approach I used:
+
+1.  **Data Collection & Preprocessing**\
+    The foundation of any data-driven project is clean, well-structured data. For this project, I consolidated a large dataset of movies and TV shows, including attributes like genre, type (movie or series), region, and IMDb ratings. I then applied feature encoding to turn these attributes into numerical values that machine learning algorithms can understand. Encoding genres, types, and regional data laid the groundwork for grouping similar items and calculating precise recommendations.
+
+2.  **Clustering & Content Similarity**\
+    Next, I used clustering to organize the content into groups with similar attributes. By clustering movies and shows based on common characteristics, I created distinct “neighborhoods” of content. Within each cluster, I applied cosine similarity to assess how closely a movie or show aligns with a given user’s profile. This method is powerful because it ensures that users are recommended content not only based on popularity but also based on true similarity to their past preferences.
+
+3.  **Precision & Personalization Through Cosine Similarity**\
+    Finally, I calculated cosine similarity scores within each cluster to generate a ranked list of recommendations. This approach enables a fine-grained level of personalization, as each recommendation aligns closely with user tastes. Unlike traditional popularity-based recommendations, this model tailors suggestions to individual viewing patterns, ensuring users receive content they’re more likely to enjoy.
+
+#### Key Technologies & Tools
+
+-   **Python** for data manipulation, clustering, and implementing the recommendation logic.
+
+-   **Pandas & NumPy** for managing and transforming large datasets.
+
+-   **Scikit-learn** for clustering and calculating cosine similarity, helping to create groups of similar content.
+
+-   **Matplotlib & Seaborn** to visualize user trends and analyze viewing preferences across clusters.
+
+#### What I Learned & Why This Matters
+
+Working on this project was an incredible dive into the mechanics of personalized recommendation systems. Building a recommender system isn’t just about suggesting any content; it’s about delivering relevance. This project underscored how essential it is to understand user data, apply the right clustering techniques, and measure similarity accurately.
+
+**For streaming services, a system like this can significantly improve user satisfaction, reduce churn, and foster loyalty.** In a data-driven world, building such tailored experiences doesn’t just enhance user engagement—it’s key to standing out in a competitive market.
+
+This personalized movie and TV show recommender showcases the power of data-driven solutions to solve real-world problems, using advanced analytics and machine learning to deliver a truly engaging user experience.
